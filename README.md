@@ -4,3 +4,9 @@
 
 New paragraph.
 Same paragraph.
+
+*Italic*
+**Bold**
+1. List Item 1
+1. List Item 2
+1. List Item 3
