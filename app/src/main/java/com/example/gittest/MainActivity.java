@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("Test", "This is a test");
         Log.i("Test", "This is another test");
+        Log.i("Test", "This is third test");
+        Log.i("Test", "This is fourth test");
+        Log.i("Test", "This is fifth test");
     }
 }
